@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c48f7610-838e-4135-86f4-a84b0477a037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.8.6\maven_repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayxkbEFasBB45Ub4AaaCRLxxkF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/大三上课设/schoolforum&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;14833622653919f91ca3149c7938ac65&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\spboot\src\main\java\com\spring\util" />
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\spboot\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\boot\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\boot\src\main\webapp\WEB-INF" />
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\boot\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.util" />
+      <recent name="util" />
+      <recent name="com.spring.config" />
+      <recent name="dao" />
+      <recent name="com.spring.boot.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\boot\src\main\webapp" />
+      <recent name="D:\WWW\vue\graduate\extend\resolver\langtpl\boot\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="启动项目" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.BootApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48f7610-838e-4135-86f4-a84b0477a037" name="Default Changelist" comment="" />
+      <created>1568690903366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568690903366</updated>
+      <workItem from="1568690906722" duration="8911000" />
+      <workItem from="1569296829636" duration="12172000" />
+      <workItem from="1569393929918" duration="31265000" />
+      <workItem from="1569511807672" duration="6625000" />
+      <workItem from="1569664421215" duration="4178000" />
+      <workItem from="1569955321070" duration="2482000" />
+      <workItem from="1570874846821" duration="10213000" />
+      <workItem from="1571225849298" duration="1793000" />
+      <workItem from="1571234823173" duration="1110000" />
+      <workItem from="1572504096824" duration="553000" />
+      <workItem from="1572514249995" duration="1341000" />
+      <workItem from="1573485622163" duration="574000" />
+      <workItem from="1573655399792" duration="801000" />
+      <workItem from="1573704857773" duration="287000" />
+      <workItem from="1574089179691" duration="634000" />
+      <workItem from="1574158145545" duration="2005000" />
+      <workItem from="1575000010388" duration="2526000" />
+      <workItem from="1575082254731" duration="3373000" />
+      <workItem from="1575467693823" duration="1105000" />
+      <workItem from="1576635208032" duration="2584000" />
+      <workItem from="1580816603262" duration="1845000" />
+      <workItem from="1581676958759" duration="17000" />
+      <workItem from="1587054080272" duration="1814000" />
+      <workItem from="1587466889184" duration="2915000" />
+      <workItem from="1587721781417" duration="284000" />
+      <workItem from="1587736680839" duration="8000" />
+      <workItem from="1587736697381" duration="21000" />
+      <workItem from="1587883449886" duration="329000" />
+      <workItem from="1587885112821" duration="394000" />
+      <workItem from="1605180207360" duration="78000" />
+      <workItem from="1606496702278" duration="656000" />
+      <workItem from="1606723761647" duration="27000" />
+      <workItem from="1607918183558" duration="1750000" />
+      <workItem from="1632490021221" duration="4717000" />
+      <workItem from="1632980640035" duration="5035000" />
+      <workItem from="1633002433426" duration="603000" />
+      <workItem from="1633570579905" duration="3085000" />
+      <workItem from="1633615923765" duration="594000" />
+      <workItem from="1633658770182" duration="1229000" />
+      <workItem from="1633667409756" duration="3158000" />
+      <workItem from="1633744597824" duration="2439000" />
+      <workItem from="1633856483861" duration="3668000" />
+      <workItem from="1633919150221" duration="2298000" />
+      <workItem from="1634005631941" duration="17000" />
+      <workItem from="1672389159840" duration="1075000" />
+      <workItem from="1673704654008" duration="675000" />
+      <workItem from="1673881883450" duration="5320000" />
+      <workItem from="1673887237712" duration="1461000" />
+      <workItem from="1673888829928" duration="1028000" />
+      <workItem from="1675575304652" duration="723000" />
+      <workItem from="1675824936939" duration="3649000" />
+      <workItem from="1675949409749" duration="3009000" />
+      <workItem from="1676039955167" duration="1390000" />
+      <workItem from="1676118076342" duration="5000000" />
+      <workItem from="1676280724616" duration="2653000" />
+      <workItem from="1676358308388" duration="2679000" />
+      <workItem from="1676513564021" duration="959000" />
+      <workItem from="1676560744711" duration="1271000" />
+      <workItem from="1676729780856" duration="182000" />
+      <workItem from="1676729984391" duration="88000" />
+      <workItem from="1676730087730" duration="6035000" />
+      <workItem from="1676820066087" duration="1238000" />
+      <workItem from="1676903463559" duration="1590000" />
+      <workItem from="1676970709302" duration="2347000" />
+      <workItem from="1677212721033" duration="4719000" />
+      <workItem from="1677341270579" duration="259000" />
+      <workItem from="1677372679926" duration="41000" />
+      <workItem from="1680780930592" duration="2310000" />
+      <workItem from="1680783281155" duration="91000" />
+      <workItem from="1680783693599" duration="4317000" />
+      <workItem from="1680826226926" duration="3251000" />
+      <workItem from="1681291867354" duration="877000" />
+      <workItem from="1681653933827" duration="616000" />
+      <workItem from="1684130897584" duration="3959000" />
+      <workItem from="1685344386248" duration="12000" />
+      <workItem from="1685588976571" duration="98000" />
+      <workItem from="1686126679946" duration="596000" />
+      <workItem from="1686128582850" duration="1407000" />
+      <workItem from="1686140651296" duration="597000" />
+      <workItem from="1686146522102" duration="635000" />
+      <workItem from="1686182680665" duration="255000" />
+      <workItem from="1686217255915" duration="2421000" />
+      <workItem from="1686272555208" duration="2065000" />
+      <workItem from="1686451623427" duration="1230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
